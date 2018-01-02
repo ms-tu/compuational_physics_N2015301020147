@@ -15,3 +15,6 @@
 
 ## 效果：
 
+![image](https://github.com/ms-tu/compuational_physics_N2015301020147/blob/master/TIM图片20180102162102.png)
+![image](
+
