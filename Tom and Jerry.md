@@ -25,7 +25,7 @@
    
    
 ## 致谢：
-   [Python基础之（三）----PyGame安装步骤](http://blog.csdn.net/qq_33166080/article/details/68928563)
-   [python的相关应用——pygame的一个小例子](http://blog.csdn.net/asware/article/details/4151554)
-   [pygame实例](http://blog.csdn.net/liushaochan123/article/details/8604214)
-   乔敏琛同学的工作
+ [Python基础之（三）----PyGame安装步骤](http://blog.csdn.net/qq_33166080/article/details/68928563)  
+ [python的相关应用——pygame的一个小例子](http://blog.csdn.net/asware/article/details/4151554)  
+ [pygame实例](http://blog.csdn.net/liushaochan123/article/details/8604214)  
+ 乔敏琛同学的工作
